@@ -1,0 +1,21 @@
+.content1-left {
+    background-color: red;
+    height: 400px;
+}
+.content1-centre {
+    background-color: green;
+    height: 400px;
+}
+.content1-right {
+    background-color: purple;
+    height: 400px;
+}
+.left{
+    background-color: #ccc;
+}
+.center {
+    background-color: #eee;
+}
+.right {
+    background-color: #ccc;
+}
